@@ -3,7 +3,7 @@
  * Since Baum hasn't come up with their own triat implementation, we can try to do so
  */
 
-namespace Baum\Nestable;
+namespace Baum;
 
 interface Nestable{
 
